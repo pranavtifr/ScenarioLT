@@ -1,7 +1,7 @@
 [info]
 options = "+Freeciv-2.6-modpack"
-baseURL = "https://raw.githubusercontent.com/hugomflavio/amplioLT/main"
-name = "amplioLT"
+baseURL = "https://raw.githubusercontent.com/pranavtifr/ScenarioLT/master"
+name = "ScenarioLT"
 type = "Tileset"
 version = "1.0"
 
