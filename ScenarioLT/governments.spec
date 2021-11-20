@@ -12,7 +12,7 @@ artists = "
 "
 
 [file]
-gfx = "misc/governments"
+gfx = "ScenarioLT/governments"
 
 [grid_main]
 

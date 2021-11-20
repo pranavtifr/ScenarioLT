@@ -36,7 +36,7 @@ artists = "
 "
 
 [file]
-gfx = "amplio2/units"
+gfx = "ScenarioLT/units"
 
 [grid_main]
 
