@@ -117,7 +117,7 @@ files =
   "amplio2/nuke.spec",
   "amplio2/explosions.spec",
   "amplio2/cities.spec",
-  "amplio2/bases.spec",
+  "ScenarioLT/bases.spec",
   "amplio2/select.spec",
   "amplio2/grid.spec",
   "misc/cursors.spec",

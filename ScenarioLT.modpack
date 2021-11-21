@@ -11,6 +11,8 @@ list =
 "ScenarioLT.tilespec"
 "ScenarioLT/units.png"
 "ScenarioLT/units.spec"
+"ScenarioLT/bases.png"
+"ScenarioLT/bases.spec"
 "ScenarioLT/governments.png"
 "ScenarioLT/governments.spec"
 "ScenarioLT/Buildings/academy.png"
