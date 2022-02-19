@@ -170,4 +170,8 @@ tiles = { "row", "column", "tag"
   5,  18, "u.early_submarine" 	; modded_by_Sketlux (XYZ)
   5,  19, "u.zeppelin"	 	; Sketlux (XYZ)
   6,   0, "u.dredger"		; VladimirSlavik
+  6,   1, "u.monitor"		; Sketlux (XYZ)
+  6,   2, "u.tachanka"		; Sketlux (XYZ)
+  6,   3, "u.armored_car"	; Sketlux (XYZ) 
+  6,   4, "u.armored_train"     ; Sketlux (XYZ) 
 }
